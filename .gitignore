@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+sources/trash.cpp
+_build/*
+trash.cpp
+logs/*
